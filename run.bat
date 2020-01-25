@@ -1,0 +1,2 @@
+cd E:\Projects\Eclipse_Project_WorkSpace\inetBanking_VI_Webapp
+mvn clean install

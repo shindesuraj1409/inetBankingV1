@@ -1,0 +1,8 @@
+com\inetbanking\testcases\BaseClass.class
+com\inetbanking\pageobjects\BasePomObject.class
+com\inetbanking\pageobjects\LoginPage.class
+com\inetbanking\utilities\XLUtils.class
+com\inetbanking\testcases\LoginPage_TestCase.class
+com\inetbanking\testcases\TC001_DDT_LoginTest.class
+com\inetbanking\utilities\ReadConfig.class
+com\inetbanking\utilities\Reporting.class
